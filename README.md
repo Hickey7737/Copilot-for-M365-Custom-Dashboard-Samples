@@ -7,11 +7,17 @@ In addition to Copilot metrics, you can also export things like Collaborating me
 
 
 Some reasons to build your own Copilot Dashboard:
+
 -Ability to report on Copilot usage data older than 28 days
+
 -Ability to view adoption and impact metrics for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 10 (min 5)
+
 -Ability to pull in custom organizational data – for example sales performance or geography – to identify business impact correlations
+
 -Ability to customize the definition of active Copilot users and explore usage intensity
+
 -Include business KPIs to truly gauge impact on real world business functions.
+
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
 Part I - Viva Insights Analyst Workbench Custom Person Query​
