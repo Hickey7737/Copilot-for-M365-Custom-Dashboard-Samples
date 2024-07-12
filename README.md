@@ -69,7 +69,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 At this point you should have the Sample Dashboard deployed with your Copilot for M365 usage data.  Please customize, fork and share your own examples in the comments.
 
-The Sample dashboard has two tabs:
+### The Sample dashboard has two tabs:
 
 One tab focused on Adoption:
 
