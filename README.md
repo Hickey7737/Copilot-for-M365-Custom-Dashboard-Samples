@@ -30,11 +30,17 @@ Part I - Viva Insights Analyst Workbench Custom Person Query​
 4. Choose Time Period - Up to 1 Year.  ​
 5. Optionally Auto-refresh to refresh weekly when Insights processes data (Sunday 12AM).  ​Pro Tip: If you place the results in a durable location, the PBI report will refresh automatically​
 6. Choose more settings:  Group by | Daily or Weekly.  This is the frequency of metrics deliverd in the query.  Daily will give you daily usage stats and weekly stats rooled up by week.​
-7. Select metrics by clicking Add Metrics:  Add Microsoft 365 Copilot Metrics (required) and Collaboration activity metrics (optional) to measure Copilot impact on collaboration
-8. Choose Add to query 
-9. Select which employees you want to include in the query.  By default, query will include all Employees Active in M365.  Add additional conditions to narrow query scope.
-10. Select which employee attributes you want to include in the query.  Employee attributes come from upload of Org data file in Viva Insights.  Employee attributes can help slice custom dashboards.  E.g. I want to see Copilot Adoption and Impact for Countries, Cost Centers or any other organizational attribute
-11. Choose Run Query.  Query will take approximately between 10-60 minutes
+
+   ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/queryoptions.jpg)
+   
+8. Select metrics by clicking Add Metrics:  Add Microsoft 365 Copilot Metrics (required) and Collaboration activity metrics (optional) to measure Copilot impact on collaboration
+9. Choose Add to query
+
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/queryoptions.jpg)
+    
+11. Select which employees you want to include in the query.  By default, query will include all Employees Active in M365.  Add additional conditions to narrow query scope.
+12. Select which employee attributes you want to include in the query.  Employee attributes come from upload of Org data file in Viva Insights.  Employee attributes can help slice custom dashboards.  E.g. I want to see Copilot Adoption and Impact for Countries, Cost Centers or any other organizational attribute
+13. Choose Run Query.  Query will take approximately between 10-60 minutes
 
 
 
