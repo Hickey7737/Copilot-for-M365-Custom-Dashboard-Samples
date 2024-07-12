@@ -44,7 +44,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 9. Select which employee attributes you want to include in the query.  Employee attributes come from uploading of Org data file in Viva Insights.  Employee attributes can help analysis or to slice your custom dashboards.  E.g. I want to see Copilot Adoption and Impact for Countries, Cost Centers or I want to see the impact of close rates for Sales professionals enabled with Copilot.
 
-   IMAGE
+   ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/emp%20attribs.jpg)
 
 
 10. Choose Run Query.  Query will take approximately between 10-60 minutes
