@@ -17,6 +17,8 @@ Reasons you may want to build your own Copilot Dashboard:
 
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
+Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.
+
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
 1. Navigate to Viva Insights Analyst Workbench at https://analysis.insights.viva.office.com/analyst/analysis
