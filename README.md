@@ -48,7 +48,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 
 10. Choose Run Query.  Query will take approximately between 10-60 minutes
-11. Save the output CSV file to a durable location on Sharepoint or Onedrive.  Take note of the path"  In Excel,  choose File | Info | Copy Path 
+11. Save the output CSV file to a durable location on Sharepoint or Onedrive.  Take note of the path: In Excel | Choose File | Info | Copy Path 
 
 ## Part II - Download Power BI Template and connect to data file generated in Step I
 
