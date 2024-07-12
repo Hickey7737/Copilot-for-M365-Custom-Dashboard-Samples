@@ -39,8 +39,11 @@ Part I - Viva Insights Analyst Workbench Custom Person Query​
 ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/select%20metrics.jpg)
     
 11. Select which employees you want to include in the query.  By default, query will include all Employees Active in M365.  Add additional conditions to narrow query scope.
-12. Select which employee attributes you want to include in the query.  Employee attributes come from upload of Org data file in Viva Insights.  Employee attributes can help slice custom dashboards.  E.g. I want to see Copilot Adoption and Impact for Countries, Cost Centers or any other organizational attribute
-13. Choose Run Query.  Query will take approximately between 10-60 minutes
+
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/select%20emps.jpg)
+
+13. Select which employee attributes you want to include in the query.  Employee attributes come from upload of Org data file in Viva Insights.  Employee attributes can help slice custom dashboards.  E.g. I want to see Copilot Adoption and Impact for Countries, Cost Centers or any other organizational attribute
+14. Choose Run Query.  Query will take approximately between 10-60 minutes
 
 
 
