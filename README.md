@@ -20,7 +20,7 @@ Some reasons to build your own Copilot Dashboard:
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
 
-## Part I - Viva Insights Analyst Workbench Custom Person Query 
+## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
 1. Navigate to Viva Insights Analyst Workbench at https://analysis.insights.viva.office.com/analyst/analysis
 2. Choose Create analysis | Custom query | Person Query | Set up analysis
@@ -50,7 +50,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 10. Choose Run Query.  Query will take approximately between 10-60 minutes
 11. Save the output CSV file to a durable location on Sharepoint or Onedrive
 
-## Part II - Download Power BI Template and connect to data file generated in Part I - Viva Insights Analyst Workbench Custom Person Query
+## Part II - Download Power BI Template and connect to data file generated in Step I
 
 1. Download Custom Copilot Dashboard Examples.pbix and open in Power BI Desktop App
 2.	In Power BI desktop click Transform data
