@@ -7,13 +7,13 @@ In addition to Copilot metrics, you can also export things like collaboration me
 
 Reasons you may want to export metrics build your own Copilot Dashboard:
 
-*Report on Copilot usage data older than 28 days
+* Report on Copilot usage data older than 28 days
 
-*View adoption and impact metrics for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 10 (min 5). E.g Cost Center, Country, Role, etc.
+* View adoption and impact metrics for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 10 (min 5). E.g Cost Center, Country, Role, etc.
 
-*Ability to pull in organizational Key Performance Indicators.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
+* Ability to pull in organizational Key Performance Indicators.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
 
-*Ability to customize the definition of active Copilot users and explore usage intensity
+* Ability to customize the definition of active Copilot users and explore usage intensity
 
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
