@@ -71,9 +71,13 @@ At this point you should have the Sample Dashboard deployed with your Copilot fo
 
 The Sample dashboard have two tabs:
 
-One focused on Adoption
+One tab focused on Adoption
 
-One focused on impact
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/adoption.jpg)
+
+One tab focused on impact
+
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/impact.jpg)
 
 
 
