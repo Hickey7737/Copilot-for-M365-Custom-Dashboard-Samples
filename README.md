@@ -49,7 +49,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 15. Choose Run Query.  Query will take approximately between 10-60 minutes
 
-
+# Part II - Download Power BI Template and connect to your data from Part I #
 
 
 
