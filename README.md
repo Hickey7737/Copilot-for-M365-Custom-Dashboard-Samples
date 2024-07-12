@@ -1,10 +1,9 @@
 # Copilot-for-M365-Custom-Dashboard-Samples
-Custom Copilot M365 Dashboard samples for Impact and Adoption
+Custom Copilot for Microsoft 365 Dashboard samples for Impact and Adoption.
 
-Raw metrics available through Viva Insights Analyst Workbench provide an opportunity to export Copilot for M365 usage data for custom dashboards or analysis.  
+Raw metrics available through Viva Insights provide an opportunity to export Copilot for M365 usage data for custom dashboards or analysis.
 
 In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on regular collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate to gauge impact of Copilot on real world business indicators.
-
 
 Reasons you may want to build your own Copilot Dashboard:
 
@@ -16,9 +15,7 @@ Reasons you may want to build your own Copilot Dashboard:
 
 -Ability to customize the definition of active Copilot users and explore usage intensity
 
-
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
-
 
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
