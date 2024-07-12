@@ -63,7 +63,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 5.	Choose the Gear Icon next to Source
 6.	Paste the file path from Step 11 Above | Remove "?web=1" from the path | Choose OK
 
-IMAGE
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/data%20source.jpg)
    
 8.	Access Web content | Choose Organizational Account | Sign in | Choose Connect
 9.	Choose Close and Apply
