@@ -48,13 +48,24 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 
 10. Choose Run Query.  Query will take approximately between 10-60 minutes
-11. Save the output CSV file to a durable location on Sharepoint or Onedrive
+11. Save the output CSV file to a durable location on Sharepoint or Onedrive.  Take note of the path"  In Excel,  choose File | Info | Copy Path 
 
 ## Part II - Download Power BI Template and connect to data file generated in Step I
 
 1. Download Custom Copilot Dashboard Examples.pbix and open in Power BI Desktop App
-2.	In Power BI desktop click Transform data
-3.	Under Query settings click the Gear Icon next to Source
+2. Note: You will get a notice that "There are pending changes in your queries that haven't been applied".  Choose X to close this mesage and play with the sample data.
+
+IMAGE
+   
+3.	In Power BI desktop Ribbon choose Transform data
+4.	Under Query settings in the Right pane ensure the Names is "Query"
+5.	Choose the Gear Icon next to Source
+6.	Paste the file path from Step 11 Above | Remove "?web=1" from the path | Choose OK
+
+IMAGE
+   
+8.	Access Web content | Choose Organizational Account | Sign in | Choose Connect
+9.	Choose Close and Apply
 
 
 
