@@ -25,7 +25,7 @@ Part I - Viva Insights Analyst Workbench Custom Person Query​
 1. Navigate to Viva Insights Analyst Workbench at https://analysis.insights.viva.office.com/analyst/analysis​
 2. Choose Create analysis | Custom query | Person Query | Set up analysis
 
-   ![](https://1drv.ms/i/s!Ah-35FI1EEXFinPAkwufDjgkcbz8?e=5HdMbh)
+   ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/createanalysis.jpg)
    
 4. Choose Time Period - Up to 1 Year.  ​
 5. Optionally Auto-refresh to refresh weekly when Insights processes data (Sunday 12AM).  ​Pro Tip: If you place the results in a durable location, the PBI report will refresh automatically​
