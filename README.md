@@ -81,7 +81,7 @@ One tab focused on impact:
 
 ### Notes for formulas used in the sample dashboard:
 
-### Copilot Events are a sum of interactions with Copilot across key apps.  
+#### Copilot Events are a sum of interactions with Copilot across key apps.  
 
 In a study of knowledge workers, users were able to retrieve information across files, emails, and calendars 6 minutes faster with Copilot versus without Copilot. See study #4 in section 2 of this blog post. https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work
 
