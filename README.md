@@ -81,16 +81,16 @@ One tab focused on impact:
 
 ### Notes for formulas used in the sample dashboard:
 
-1. Copilot Events are a sum of interactions with Copilot across key apps.  
+#### Copilot Events are a sum of interactions with Copilot across key apps.  
 
 In a study of knowledge workers, users were able to retrieve information across files, emails, and calendars 6 minutes faster with Copilot versus without Copilot. See study #4 in section 2 of this blog post. https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work
 
 CopilotEvents = SUM (Query[Copilot actions taken in Copilot chat (work)])+SUM(Query[Summarize email thread actions taken using Copilot in Outlook])+SUM(Query[Summarize Word document actions taken using Copilot in Word])+SUM(Query[Summarize presentation actions taken using Copilot in PowerPoint])+SUM(Query[Excel analysis actions taken using Copilot])+Sum(Query[Summarize chat actions taken using Copilot in Teams])+Sum(Query[Email coaching actions taken using Copilot])+SUM(Query[Generate email draft actions taken using Copilot in Outlook])+Sum(Query[Draft Word document actions taken using Copilot])+Sum(Query[Create presentation actions taken using Copilot])+SUM(Query[Rewrite text actions taken using Copilot in Word])+SUM(Query[Create Excel formula actions taken using Copilot])+SUM(Query[Excel formatting actions taken using Copilot])+SUM(Query[Compose chat message actions taken using Copilot in Teams])+Sum(Query[Summarize meeting actions taken using Copilot in Teams])
 
-2. Copilot Assisted Hours multiplies Copilot Events by 6, divide by 60 and add actual meeting hours summarized by M365 Copilot in Teams.
+#### Copilot Assisted Hours multiplies Copilot Events by 6, divide by 60 and add actual meeting hours summarized by M365 Copilot in Teams.
 
 Copilot Assisted Hours = (Query[CopilotEvents])*6/60+SUM(Query[Meeting hours summarized by Copilot in Teams])
 
-3. CopilotCostSavingsDollars multiply Copilot assisted hours by a average hourly rate based on statistics from U.S. Bureau of Labor Statistic.  You can easily change this rate in the formula.  You can also upload individual employee rate information with Viva Insights organization file for more accurate results.
+#### CopilotCostSavingsDollars multiply Copilot assisted hours by a average hourly rate based on statistics from U.S. Bureau of Labor Statistic.  You can easily change this rate in the formula.  You can also upload individual employee rate information with Viva Insights organization file for more accurate results.
 
 CopilotCostSavingsDollars = (Query[Copilot Assisted Hours]*70)
