@@ -87,10 +87,10 @@ In a study of knowledge workers, users were able to retrieve information across 
 
 CopilotEvents = SUM (Query[Copilot actions taken in Copilot chat (work)])+SUM(Query[Summarize email thread actions taken using Copilot in Outlook])+SUM(Query[Summarize Word document actions taken using Copilot in Word])+SUM(Query[Summarize presentation actions taken using Copilot in PowerPoint])+SUM(Query[Excel analysis actions taken using Copilot])+Sum(Query[Summarize chat actions taken using Copilot in Teams])+Sum(Query[Email coaching actions taken using Copilot])+SUM(Query[Generate email draft actions taken using Copilot in Outlook])+Sum(Query[Draft Word document actions taken using Copilot])+Sum(Query[Create presentation actions taken using Copilot])+SUM(Query[Rewrite text actions taken using Copilot in Word])+SUM(Query[Create Excel formula actions taken using Copilot])+SUM(Query[Excel formatting actions taken using Copilot])+SUM(Query[Compose chat message actions taken using Copilot in Teams])+Sum(Query[Summarize meeting actions taken using Copilot in Teams])
 
-#### Copilot Assisted Hours multiplies Copilot Events by 6, divide by 60 and add actual meeting hours summarized by M365 Copilot in Teams.
+#### Copilot Assisted Hours multiplies Copilot Events by 6, divides by 60 and adds meeting hours summarized by M365 Copilot in Teams.
 
 Copilot Assisted Hours = (Query[CopilotEvents])*6/60+SUM(Query[Meeting hours summarized by Copilot in Teams])
 
-#### CopilotCostSavingsDollars multiply Copilot assisted hours by a average hourly rate based on statistics from U.S. Bureau of Labor Statistic.  You can easily change this rate in the formula.  You can also upload individual employee rate information with Viva Insights organization file for more accurate results.
+#### CopilotCostSavingsDollars multiplies Copilot assisted hours by a average hourly rate based on statistics from U.S. Bureau of Labor Statistic.  You can easily change this rate in the formula.  You can also upload individual employee rate information with Viva Insights organization file for more accurate results.
 
 CopilotCostSavingsDollars = (Query[Copilot Assisted Hours]*70)
