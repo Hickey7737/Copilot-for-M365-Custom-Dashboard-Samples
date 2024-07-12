@@ -9,13 +9,13 @@ Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
 * Report on Copilot usage data older than 28 days
 
-* View adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 5. E.g Cost Center, Country, Role, etc.
+* View adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 5. E.g. Cost Center, Country, Role, etc.
 
-* Ability to pull in organizational Key Performance Indicators and use in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
+* Ability to pull in organizational Key Performance Indicators and utilize in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
 
 * Ability to customize the definition of active Copilot users and explore usage intensity
 
-Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.
+Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.  The samples are not designed to be the ultimate Copilot Dashboard but merely examples to learn from.
 
    ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
    
@@ -66,6 +66,14 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
    
 7.	If prompted for Authentication on the Access Web content screen | Choose Organizational Account | Sign in | Choose Connect
 8.	Choose Close and Apply
+
+At this point you should have the Sample Dashboard deployed with your Copilot for M365 usage data.  Please customize, fork and share your own examples in the comments.
+
+The Sample dashboard have two tabs:
+
+One focused on Adoption
+
+One focused on impact
 
 
 
