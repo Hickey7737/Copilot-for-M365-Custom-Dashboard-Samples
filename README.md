@@ -3,7 +3,7 @@ Custom Copilot for Microsoft 365 Dashboard samples for Impact and Adoption.
 
 Raw metrics available through Viva Insights provide an opportunity to export Copilot for M365 usage data for custom dashboards or analysis.
 
-In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on regular collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate to gauge impact of Copilot on real world business impact.
+In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on day to day collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate or proposal generation to gauge impact of Copilot on real world business impact.
 
 Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
