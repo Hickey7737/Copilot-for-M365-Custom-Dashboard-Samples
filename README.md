@@ -17,7 +17,7 @@ Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
-[![Watch the video](https://www.youtube.com/watch?v=QNyZxOiL6cs)
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
 
 Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.
 
