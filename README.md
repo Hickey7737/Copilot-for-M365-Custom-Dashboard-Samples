@@ -48,7 +48,7 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 
 ## Part II - Download Power BI Template and connect to data file generated in Step I
 
-1. Download Custom Copilot Dashboard Examples.pbix and open in Power BI Desktop App
+1. Download Custom Copilot Dashboard Examples.pbix and open in Power BI Desktop App.  https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/Custom%20Copilot%20Dashboard%20Examples.pbix
 2. Note: You will get a notice that "There are pending changes in your queries that haven't been applied".  Choose X to close this message and play with the sample data.
 
    ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/Apply%20changes.jpg)
