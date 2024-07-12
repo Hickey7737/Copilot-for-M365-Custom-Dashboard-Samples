@@ -3,19 +3,21 @@ Custom Copilot for Microsoft 365 Dashboard samples for Impact and Adoption.
 
 Raw metrics available through Viva Insights provide an opportunity to export Copilot for M365 usage data for custom dashboards or analysis.
 
-In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on regular collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate to gauge impact of Copilot on real world business indicators.
+In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on regular collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate to gauge impact of Copilot on real world business impact.
 
-Reasons you may want to export metrics build your own Copilot Dashboard:
+Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
 * Report on Copilot usage data older than 28 days
 
-* View adoption and impact metrics for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 10 (min 5). E.g Cost Center, Country, Role, etc.
+* View adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 5. E.g Cost Center, Country, Role, etc.
 
-* Ability to pull in organizational Key Performance Indicators.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
+* Ability to pull in organizational Key Performance Indicators and use in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
 
 * Ability to customize the definition of active Copilot users and explore usage intensity
 
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
+
+[![Watch the video](https://www.youtube.com/watch?v=QNyZxOiL6cs)
 
 Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.
 
