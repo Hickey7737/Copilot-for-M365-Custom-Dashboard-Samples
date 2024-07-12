@@ -55,7 +55,8 @@ For step-by-step walkthrough on how to utilize analyst workbench for Copilot ana
 1. Download Custom Copilot Dashboard Examples.pbix and open in Power BI Desktop App
 2. Note: You will get a notice that "There are pending changes in your queries that haven't been applied".  Choose X to close this mesage and play with the sample data.
 
-IMAGE
+![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/Apply%20changes.jpg)
+
    
 3.	In Power BI desktop Ribbon choose Transform data
 4.	Under Query settings in the Right pane ensure the Names is "Query"
