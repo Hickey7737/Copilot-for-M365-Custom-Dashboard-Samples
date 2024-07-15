@@ -15,6 +15,11 @@ Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
 * Ability to customize the definition of active Copilot users and explore usage intensity
 
+What's included with this project:
+   1. PBIX Power BI template sample report with Adoption and Impact pages
+   2. Sample Data file with fake data from custom person query
+   3. Instructions via this README
+
 Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.  The samples are not designed to be the ultimate Copilot Dashboard but merely examples to learn from.
 
    ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
