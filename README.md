@@ -26,6 +26,18 @@ Note:  these samples are provided with no express warranty or guarantee.  The sa
    
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
 
+## Prerequisites:
+* Copilot for Microsoft 365 licenses 
+* Viva Insights License Assigned to Copilot users
+* Viva Insights Analyst Role to run person query
+* Power BI Pro License and Power BI Desktop
+  
+## Optionally:
+* Viva Insights Admin Role to upload organizational attributes
+* Organization file to containing custom user attributes for slicers or KPI analysis
+* Viva Insights License Assigned to all tenant users or non Copilot control group to compare cohorts
+
+
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
 1. Navigate to Viva Insights Analyst Workbench at https://analysis.insights.viva.office.com/analyst/analysis
