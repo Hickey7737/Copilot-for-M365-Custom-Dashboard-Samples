@@ -5,17 +5,15 @@ Raw metrics available through Viva Insights provide an opportunity to export Cop
 
 In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on day to day collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate or proposal generation to gauge impact of Copilot on real world business impact.
 
-Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
+Reasons you may want to build your own Copilot Dashboard:
 
 * Report on Copilot usage data older than 28 days
 
-* View Copilot metrics with daily frequency
+* Report on Copilot usage with daily frequency
 
-* View adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 5. E.g. Cost Center, Country, Role, etc.
+* View Copilot adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for small groups. E.g. Cost Center, Country, Role, etc.
 
-* Ability to pull in organizational Key Performance Indicators and utilize in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
-
-* Ability to customize the definition of active Copilot users and explore usage intensity
+* Ability to pull in business metrics or key performance indicators and utilize in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
 
 What's included with this project:
    1. PBIX Power BI template sample report with Adoption and Impact pages
