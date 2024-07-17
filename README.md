@@ -33,8 +33,9 @@ What's included with this project:
 
 Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated, generated with Excel RAND function.  The samples are not designed to be the ultimate Copilot Dashboard but merely POC examples to learn from.
 
-For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
-  ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
+For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - 
+
+  ![https://www.youtube.com/watch?v=QNyZxOiL6cs](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
 
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
