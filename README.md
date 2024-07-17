@@ -22,20 +22,19 @@ Reasons to build your own Copilot Dashboard:
 * Power BI Pro License and Power BI Desktop
   
 ### Optionally:
-* Viva Insights Admin Role to upload organizational attributes or KPI data
-* Organization file to containing custom user attributes for slicers or KPI analysis.  See template here (https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/OrganizationalDataFileEditTemplate.xlsx)
+* Viva Insights Admin Role to upload organizational attribute file
+* Organization file containing custom user attributes for slicers or KPI analysis.  See template here (https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/OrganizationalDataFileEditTemplate.xlsx)
 * Viva Insights License Assigned to all tenant users or non Copilot control group to compare cohorts
 
 What's included with this project:
    1. PBIX Power BI template sample report with Adoption and Impact pages
    2. Sample Data file with fake data from custom person query
-   3. Instructions via this README
+   3. Template orginazation file for Viva Insights
 
-Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated and generated with Excel RAND function.  The samples are not designed to be the ultimate Copilot Dashboard but merely examples to learn from.
+Note:  these samples are provided with no express warranty or guarantee.  The sample Copilot usage data is fabricated, generated with Excel RAND function.  The samples are not designed to be the ultimate Copilot Dashboard but merely POC examples to learn from.
 
-   ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
-   
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
+  ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
 
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
