@@ -1,11 +1,11 @@
 # Copilot-for-M365-Custom-Dashboard-Samples
 Custom Copilot for Microsoft 365 Dashboard samples for Impact and Adoption.
 
-Raw metrics available through Viva Insights provide an opportunity to export Copilot for M365 usage data for custom dashboards or analysis.
+Raw metrics available through Viva Insights provide an opportunity to export Copilot for M365 usage metrics for custom analysis.
 
-In addition to Copilot metrics, you can also export things like collaboration metrics to gauge impact of Copilot on day to day collaboration activities.  You can even include custom fields for line of business KPIs like sales close rate or proposal generation to gauge impact of Copilot on real world business impact.
+In addition to Copilot metrics, you can also export items like collaboration metrics to gauge impact of Copilot on day to day collaboration activities.  You can even include custom fields for line of business KPIs.
 
-Reasons you may want to build your own Copilot Dashboard:
+Reasons to build your own Copilot Dashboard:
 
 * Report on Copilot usage data older than 28 days
 
@@ -14,6 +14,17 @@ Reasons you may want to build your own Copilot Dashboard:
 * View Copilot adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for small groups. E.g. Cost Center, Country, Role, etc.
 
 * Ability to pull in business metrics or key performance indicators and utilize in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
+
+### Prerequisites:
+* Copilot for Microsoft 365 licenses 
+* Viva Insights License Assigned to Copilot users
+* Viva Insights Analyst Role to run person query
+* Power BI Pro License and Power BI Desktop
+  
+### Optionally:
+* Viva Insights Admin Role to upload organizational attributes or KPI data
+* Organization file to containing custom user attributes for slicers or KPI analysis.  See template here (https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/OrganizationalDataFileEditTemplate.xlsx)
+* Viva Insights License Assigned to all tenant users or non Copilot control group to compare cohorts
 
 What's included with this project:
    1. PBIX Power BI template sample report with Adoption and Impact pages
@@ -25,18 +36,6 @@ Note:  these samples are provided with no express warranty or guarantee.  The sa
    ![](https://github.com/Hickey7737/Copilot-for-M365-Custom-Dashboard-Samples/blob/main/video.jpg)
    
 For step-by-step walkthrough on how to utilize analyst workbench for Copilot analysis, see this video - https://www.youtube.com/watch?v=QNyZxOiL6cs
-
-## Prerequisites:
-* Copilot for Microsoft 365 licenses 
-* Viva Insights License Assigned to Copilot users
-* Viva Insights Analyst Role to run person query
-* Power BI Pro License and Power BI Desktop
-  
-## Optionally:
-* Viva Insights Admin Role to upload organizational attributes
-* Organization file to containing custom user attributes for slicers or KPI analysis
-* Viva Insights License Assigned to all tenant users or non Copilot control group to compare cohorts
-
 
 ## Step I - Viva Insights Analyst Workbench Custom Person Query 
 
