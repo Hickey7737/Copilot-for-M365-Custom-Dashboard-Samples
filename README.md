@@ -9,6 +9,8 @@ Reasons you may want to export Copilot metrics build your own Copilot Dashboard:
 
 * Report on Copilot usage data older than 28 days
 
+* View Copilot metrics with daily frequency
+
 * View adoption and impact for custom cohorts created from a list of HR attributes including slicing Copilot usage data for groups smaller than 5. E.g. Cost Center, Country, Role, etc.
 
 * Ability to pull in organizational Key Performance Indicators and utilize in your analysis.  E.g. sales performance, time to resolution, contract error rate, customer satisfaction rate, etc.
